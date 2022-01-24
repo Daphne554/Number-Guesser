@@ -12,3 +12,5 @@ elif range_limit <= 0:
 else:
     print("Type a number next time!")
     quit()
+
+random_number = random.randint(0, range_limit)
